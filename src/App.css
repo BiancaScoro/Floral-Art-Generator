@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    background-color: rgb(243, 226, 234);
+}
+
+.title{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tulips-container{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+}
+
+.tulips{
+    width: 450px;
+}
+
+.search-btn{
+    position: absolute;
+    top: 340px;
+    left: 685px;
+}
+

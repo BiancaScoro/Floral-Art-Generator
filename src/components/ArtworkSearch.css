@@ -1,0 +1,13 @@
+.artwork-btn{
+    background-color: rgb(128, 77, 99);
+    border: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    padding: 13px 18px;
+    border-radius: 12px;
+    color: #fff;
+}
+
+.artwork-btn:hover{
+    background-color: rgb(174, 119, 143);
+}
